@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Remote Sensing](/ROI's)
-<img src="E:\GES381\Lab_8\GES381_Lab8_McClimans.pdf?raw=true"/>
+<img src="images/1stproject.JPG?raw=true"/>
 
 ---
 [Cartography](/Adobe)
-<img src="E:\GES486\Lab_1\Lab_4_McClimans_final.pdf?raw=true"/>
+<img src="images/2ndproject.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rats in Bmore](http://example.com/)
+<img src="images/3rdproject.JPG?raw=true"/>
 
 ---
 
