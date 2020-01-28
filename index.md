@@ -12,7 +12,7 @@
 <img src="images/2ndproject.JPG?raw=true"/>
 
 ---
-[Rats in Bmore](http://example.com/)
+[GIS](/ARCMAP)
 <img src="images/3rdproject.JPG?raw=true"/>
 
 ---
