@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Remote Sensing](/ROI's)
+<img src="E:\GES381\Lab_8\GES381_Lab8_McClimans.pdf?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cartography](/Adobe)
+<img src="E:\GES486\Lab_1\Lab_4_McClimans_final.pdf?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
